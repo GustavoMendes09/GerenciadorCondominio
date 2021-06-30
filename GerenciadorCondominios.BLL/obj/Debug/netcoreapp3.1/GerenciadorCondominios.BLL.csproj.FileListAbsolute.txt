@@ -6,4 +6,3 @@ D:\Projetos\VisualStudio\GerenciadorCondominio\GerenciadorCondominios\Gerenciado
 D:\Projetos\VisualStudio\GerenciadorCondominio\GerenciadorCondominios\GerenciadorCondominios.BLL\obj\Debug\netcoreapp3.1\GerenciadorCondominios.BLL.csproj.CoreCompileInputs.cache
 D:\Projetos\VisualStudio\GerenciadorCondominio\GerenciadorCondominios\GerenciadorCondominios.BLL\obj\Debug\netcoreapp3.1\GerenciadorCondominios.BLL.dll
 D:\Projetos\VisualStudio\GerenciadorCondominio\GerenciadorCondominios\GerenciadorCondominios.BLL\obj\Debug\netcoreapp3.1\GerenciadorCondominios.BLL.pdb
-D:\Projetos\VisualStudio\GerenciadorCondominio\GerenciadorCondominios\GerenciadorCondominios.BLL\obj\Debug\netcoreapp3.1\GerenciadorCondominios.BLL.csprojAssemblyReference.cache

@@ -211,5 +211,10 @@ namespace GerenciadorCondominios.DAL.Repositorios
                 throw e;
             }
         }
+
+        public Task DeletarUsuario(string usuario)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
