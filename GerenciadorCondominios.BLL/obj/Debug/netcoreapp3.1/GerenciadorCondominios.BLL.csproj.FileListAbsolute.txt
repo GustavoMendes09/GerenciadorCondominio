@@ -1,0 +1,9 @@
+D:\Projetos\VisualStudio\GerenciadorCondominio\GerenciadorCondominios\GerenciadorCondominios.BLL\bin\Debug\netcoreapp3.1\GerenciadorCondominios.BLL.deps.json
+D:\Projetos\VisualStudio\GerenciadorCondominio\GerenciadorCondominios\GerenciadorCondominios.BLL\bin\Debug\netcoreapp3.1\GerenciadorCondominios.BLL.dll
+D:\Projetos\VisualStudio\GerenciadorCondominio\GerenciadorCondominios\GerenciadorCondominios.BLL\bin\Debug\netcoreapp3.1\GerenciadorCondominios.BLL.pdb
+D:\Projetos\VisualStudio\GerenciadorCondominio\GerenciadorCondominios\GerenciadorCondominios.BLL\obj\Debug\netcoreapp3.1\GerenciadorCondominios.BLL.AssemblyInfoInputs.cache
+D:\Projetos\VisualStudio\GerenciadorCondominio\GerenciadorCondominios\GerenciadorCondominios.BLL\obj\Debug\netcoreapp3.1\GerenciadorCondominios.BLL.AssemblyInfo.cs
+D:\Projetos\VisualStudio\GerenciadorCondominio\GerenciadorCondominios\GerenciadorCondominios.BLL\obj\Debug\netcoreapp3.1\GerenciadorCondominios.BLL.csproj.CoreCompileInputs.cache
+D:\Projetos\VisualStudio\GerenciadorCondominio\GerenciadorCondominios\GerenciadorCondominios.BLL\obj\Debug\netcoreapp3.1\GerenciadorCondominios.BLL.dll
+D:\Projetos\VisualStudio\GerenciadorCondominio\GerenciadorCondominios\GerenciadorCondominios.BLL\obj\Debug\netcoreapp3.1\GerenciadorCondominios.BLL.pdb
+D:\Projetos\VisualStudio\GerenciadorCondominio\GerenciadorCondominios\GerenciadorCondominios.BLL\obj\Debug\netcoreapp3.1\GerenciadorCondominios.BLL.csprojAssemblyReference.cache
